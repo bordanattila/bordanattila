@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bordanattila
-- 👀 I’m interested in learning more about software development
+- 👀 I’m interested in learning more about web development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate 
+- 📫 You can reach me at bordanattila007@gmail.com
 
 <!---
 bordanattila/bordanattila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
