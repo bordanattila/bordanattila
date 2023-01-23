@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bordanattila
+- 👋 Hi, I’m @bordanattila a Junior Full Stack Web Developer
 - 👀 I’m interested in learning more about web development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate 
